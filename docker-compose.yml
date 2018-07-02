@@ -1,0 +1,11 @@
+version: '2'
+services:
+  front:
+    build: mm-front
+    ports:
+      - "3000:3000"
+
+  back:
+    build: mm-back
+    ports:
+      - "3210:3210"

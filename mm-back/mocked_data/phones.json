@@ -1,0 +1,32 @@
+{
+    "phones": [
+        {
+            "id": 0,
+            "name": "Xiaomi Mi MIX 2",
+            "price": 396,
+            "desc": "Experience the true immersive full display design with Mi MIX 2. The chin size is 12% smaller than its predecessor Mi MIX and the display comes with a 18:9 aspect ratio - a result of our relentless pursuit in technology innovation.",
+            "img": "00.png"
+        },
+        {
+            "id": 1,
+            "name": "Samsung Galaxy S9",
+            "price": 504,
+            "desc": "Our category-defining Dual Aperture lens adapts like the human eye. It's able to automatically switch between various lighting conditions with ease—making your photos look great whether it's bright or dark, day or night.",
+            "img": "01.png"
+        },
+        {
+            "id": 2,
+            "name": "Apple iPhone X",
+            "price": 1056,
+            "desc": "Our vision has always been to create an iPhone that is entirely screen. One so immersive the device itself disappears into the experience. And so intelligent it can respond to a tap, your voice, and even a glance. With iPhone X, that vision is now a reality. Say hello to the future.",
+            "img": "02.png"
+        },
+        {
+            "id": 3,
+            "name": "Huawei P20 Pro",
+            "price": 636,
+            "desc": "The Huawei P series has always been a pioneer in smart phone photography. Now, the HuaweI P20 Pro returns to lead the way with the revolutionary Leica triple camera, where the aesthetic vision is combined with an advanced camera system that illuminates smart photography.",
+            "img": "03.png"
+        }
+    ]
+}

@@ -4,5 +4,5 @@ WORKDIR /usr/src/mm-challenge
 COPY package.json /usr/src/mm-challenge
 RUN npm install
 COPY . /usr/src/mm-challenge
-EXPOSE 3000
+EXPOSE 3210
 CMD ["npm", "start"]
